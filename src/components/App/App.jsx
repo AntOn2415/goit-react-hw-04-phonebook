@@ -1,3 +1,16 @@
+// import { useState } from 'react';
+// import ContactList from '../ContactList';
+// import ContactForm from '../ContactForm';
+// import Filter from '../Filter';
+// import { ContainerDiv, TitleH1, TitleH2 } from './App.styled';
+
+
+// const App = () => {
+//   const [contacts, setContacts] = useState([]);
+//   const [filter, setFilter] = useState('');
+
+
+
 import React, { Component } from 'react';
 import ContactList from '../ContactList';
 import ContactForm from '../ContactForm';
