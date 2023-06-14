@@ -29,18 +29,3 @@ li {
   padding: 0;
   margin: 0;
 }
-
-.container {
-  display: flex;
-  flex-direction: column;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 30px 60px;
-  max-width: 600px;
-  min-height: 650px;
-  background: linear-gradient(to bottom, #72eba6, #096b32)
-}
-
-.title{
-  margin-bottom: 30px;
-}
